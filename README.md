@@ -37,9 +37,10 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-* [Uprize Ben - Game design](https://www.uprize.gg)
-* [Uprize Kira - UI and Interactive Design](https://www.uprize.gg)
-* [Sengitron - Game developers](https://www.fiverr.com/sengitron)
+* [Ben - Game design](https://www.uprize.gg)
+* [Kira - UI and Interactive Design](https://www.uprize.gg)
+* [Mike - Game developer](https://www.fiverr.com/mikegamedev)
+* [Sengitron - Game developer](https://www.fiverr.com/sengitron)
 
 ## Version History
 
