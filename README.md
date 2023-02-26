@@ -28,9 +28,9 @@ code blocks for commands
 
 ## Version History
 
-* 0.1
-    * Alpha Release
-    ![screenuprize](https://user-images.githubusercontent.com/124345674/221411953-8656416c-fa86-4a6a-b960-4ee746984812.png)
+* [Alpha Release](https://www.youtube.com/watch?v=nPXceYvwZHg)
+
+  ![screenuprize](https://user-images.githubusercontent.com/124345674/221411953-8656416c-fa86-4a6a-b960-4ee746984812.png)
 
 ## Developers
 
