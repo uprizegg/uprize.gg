@@ -26,12 +26,11 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-## Help
+## Version History
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* 0.1
+    * Alpha Release
+    ![screenuprize](https://user-images.githubusercontent.com/124345674/221411953-8656416c-fa86-4a6a-b960-4ee746984812.png)
 
 ## Developers
 
@@ -41,14 +40,6 @@ Contributors names and contact info
 * [Kira - UI and Interactive Design](https://www.uprize.gg)
 * [Mike - Game developer](https://www.fiverr.com/mikegamedev)
 * [Sengitron - Game developer](https://www.fiverr.com/sengitron)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## Credits
 
