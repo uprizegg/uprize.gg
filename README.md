@@ -1,10 +1,11 @@
-## Uprize
+## Project Name
 
-when pride is just not enough
+Uprize
+when pride is just not enough.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Step up your game to play & earn in this very new FPS shooter genre. Simply open your favorite Web browser to quickly start enjoying a match by yourself or with your friends. Earn real money with Solana along the way by winning games & tournaments.
 
 ## Getting Started
 
