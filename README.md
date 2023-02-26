@@ -1,6 +1,6 @@
-## Project Title
+## Uprize
 
-Simple overview of use/purpose.
+when pride is just not enough
 
 ## Description
 
