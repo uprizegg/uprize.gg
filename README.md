@@ -66,7 +66,20 @@ Assets, Code, 3D graphics, Maps, etc.
    * [BLOCBROS STUDIO - FPS Assault Character Arms](https://assetstore.unity.com/packages/3d/first-person-assault-character-pack-17201)
 
 * Weapons
-   * [LOVATTO STUDIO - MFPS](https://assetstore.unity.com/packages/templates/packs/mfps-mobile-245213)
+   * [ZHMATRICA - PBR Weapons Pack Low Poly](https://assetstore.unity.com/packages/3d/props/guns/pbr-weapons-pack-low-poly-178628)
+
+* Developers
+   * [Uprize Ben - Game design](https://www.uprize.gg)
+   * [Uprize Kira - UI and Interactive Design](https://www.uprize.gg)
+   * [Sengitron - Game developers](https://www.fiverr.com/sengitron)
+
+* Others
+   * [ZAKHAN - Gold Chest](https://assetstore.unity.com/packages/3d/props/gold-chest-101641)
+   * [BONK! - Weapon Icons](https://assetstore.unity.com/packages/2d/gui/icons/weapon-icons-ww1-ww2-modern-handcrafted-2k-194481)
+
+* SoundFx
+   * [INFRACTION - Epic Sci-Fi Military](https://www.youtube.com/watch?v=03gYvNTWShg)
+   * [AUDIO LANTERN - FPS Weapon and Explosion Sounds]([https://www.youtube.com/watch?v=03gYvNTWShg](https://assetstore.unity.com/packages/audio/sound-fx/weapons/complete-fps-weapon-and-explosion-sounds-188486))
 
 ## License
 
