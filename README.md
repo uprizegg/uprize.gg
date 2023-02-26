@@ -53,10 +53,20 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 Assets, Code, 3D graphics, Maps, etc.
 * FPS Engine
    * [LOVATTO STUDIO - MFPS](https://assetstore.unity.com/packages/templates/packs/mfps-mobile-245213)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
+* Maps
+   * [VIS GAMES - Airport Terminal](https://assetstore.unity.com/packages/3d/environments/airport-terminal-scene-high-detail-235465)
+   * [GABRO MEDIA - Urban Underground](https://assetstore.unity.com/packages/3d/environments/urban/urban-underground-64542)
+   * [FINWARD STUDIOS - Modular City Alley](https://assetstore.unity.com/packages/3d/environments/urban/modular-city-alley-pack-65890)
+   * [SCANSFACTORY - Abandoned Factory](https://assetstore.unity.com/packages/3d/environments/urban/hdrp-abandoned-factory-buildings-day-night-scene-164492)
+
+* Characters
+   * [BLOCBROS STUDIO - Assault Character Pack Remastered](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/assault-character-pack-remastered-16771)
+   * [ELSIANNE - Angelic Priest Character](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/angelic-priest-240822)
+   * [BLOCBROS STUDIO - FPS Assault Character Arms](https://assetstore.unity.com/packages/3d/first-person-assault-character-pack-17201)
+
+* Weapons
+   * [LOVATTO STUDIO - MFPS](https://assetstore.unity.com/packages/templates/packs/mfps-mobile-245213)
 
 ## License
 
