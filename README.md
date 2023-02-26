@@ -6,7 +6,9 @@
 
 Step up your game to play & earn in this very new FPS shooter genre. Simply open your favorite Web browser to quickly start enjoying a match by yourself or with your friends. Earn real money with Solana along the way by winning games & tournaments.
 
-## Getting Started
+## How To Play
+
+Our focus has been to create a really simple and fun game you can play instantly. To start, you will be able to play free for all mode or 4v4.  So do your best to survive as long as you can, keep playing to get better and you'll end up receiving more SOL in your wallet.
 
 ## Dependencies
 
