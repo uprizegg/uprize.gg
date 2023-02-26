@@ -10,23 +10,19 @@ Step up your game to play & earn in this very new FPS shooter genre. Simply open
 
 Our focus has been to create a really simple and fun game you can play instantly. To start, you will be able to play free for all mode or 4v4.  So do your best to survive as long as you can, keep playing to get better and you'll end up receiving more SOL in your wallet.
 
-## Dependencies
+## Solana
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Every single players will have a Solana wallet tied to their account. Get Uprize Battlepass to be eligible to earn Solana with our K2E (kill to earn) feature. Receive Sol everytime you kill someone.
 
-## Installing
+Also get into competitive matches & tournaments to win some more Sol.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## Marketplace
 
-## Executing program
+Enjoy our marketplace where you can get the nicest gun skins and characters to add to the fun.  Sell your own stuff, buy some more or trade them with your friends.
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+The big downside of traditional games is that when you stop playing it, you lose everything. All your hard work to boost your account is gone. With Uprize you'll be able to sell your account and everything you acquired while playing.
+
+For us, everything matters and we care about our players.
 
 ## Version History
 
