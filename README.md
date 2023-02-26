@@ -52,7 +52,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 Assets, Code, 3D graphics, Maps, etc.
 * FPS Engine
-* [LOVATTO STUDIO - MFPS](https://assetstore.unity.com/packages/templates/packs/mfps-mobile-245213)
+   * [LOVATTO STUDIO - MFPS](https://assetstore.unity.com/packages/templates/packs/mfps-mobile-245213)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
