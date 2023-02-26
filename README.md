@@ -1,7 +1,6 @@
 ## Project Name
 
-Uprize
-when pride is just not enough.
+[Uprize](https://www.uprize.gg/) - when pride is just not enough.
 
 ## Description
 
@@ -35,7 +34,7 @@ code blocks for commands
 
 ## Developers
 
-Contributors names and contact info
+Contributors
 
 * [Ben - Game design](https://www.uprize.gg)
 * [Kira - UI and Interactive Design](https://www.uprize.gg)
