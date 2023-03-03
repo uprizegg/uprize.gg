@@ -28,7 +28,7 @@ For us, everything matters and we care about our players.
 
 * [Alpha Release (video)](https://www.youtube.com/watch?v=nPXceYvwZHg)
 
-  ![screenuprize](https://user-images.githubusercontent.com/124345674/221411953-8656416c-fa86-4a6a-b960-4ee746984812.png)
+  ![uprizeLobby2](https://user-images.githubusercontent.com/124345674/222793874-3ebfc737-97b9-4126-9752-e74d18a9e98e.png)
 
 ## Developers
 
