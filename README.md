@@ -65,9 +65,13 @@ Assets, Code, 3D graphics, Maps, etc.
 * SoundFx
    * [INFRACTION - Epic Sci-Fi Military](https://www.youtube.com/watch?v=03gYvNTWShg)
    * [AUDIO LANTERN - FPS Weapon and Explosion Sounds](https://assetstore.unity.com/packages/audio/sound-fx/weapons/complete-fps-weapon-and-explosion-sounds-188486)
+
+* VideoFx
+   * [PURPLE SKY - Park in stormy weather](https://assetstore.unity.com/packages/3d/environments/park-in-stormy-weather-hdrp-205054)
    
 * Icons
    * [BONK! - Weapon Icons](https://assetstore.unity.com/packages/2d/gui/icons/weapon-icons-ww1-ww2-modern-handcrafted-2k-194481)
+   * [LAYER LAB - Space Rank](https://assetstore.unity.com/packages/2d/gui/icons/2d-icons-150-space-rank-177281)
    
 * Others
    * [ZAKHAN - Gold Chest](https://assetstore.unity.com/packages/3d/props/gold-chest-101641)
