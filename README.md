@@ -1,6 +1,8 @@
 ## Project Name
 
-DOWNLOAD Grizzlython [Alpha version](https://drive.google.com/file/d/1H2K0D5YImh8fo4M6rA6saGBFoBkPhV6s/view?usp=share_link) - when pride is just not enough.
+[DOWNLOAD Uprize - Alpha version](https://drive.google.com/file/d/1H2K0D5YImh8fo4M6rA6saGBFoBkPhV6s/view?usp=share_link) - for Grizzlython hackathon!
+
+Uprize - when pride is just not enough.
 
 ## Description
 
