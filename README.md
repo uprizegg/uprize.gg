@@ -6,7 +6,7 @@ Uprize - when pride is just not enough.
 
 ## Description
 
-Step up your game to play & earn in this very new FPS shooter genre. Simply open your favorite Web browser to quickly start enjoying a match by yourself or with your friends. Earn real money with Solana along the way by winning games & tournaments.
+Step up your game to play & earn in this very new FPS shooter genre. Simply open Uprize to start enjoying a match by yourself or with your friends. Earn real money with Solana along the way by winning games & tournaments.
 
 ## How To Play
 
